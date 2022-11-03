@@ -1,6 +1,7 @@
 //const e = require("express");
 // import { key, target } from "express";
 
+console.log("hello")
 const socket = io()
 
 let name;
